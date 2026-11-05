@@ -4,7 +4,8 @@ Un dashboard Python qui transforme des mails d'alerte de supervision en indicate
 
 > Version publique d'un outil que j'ai conçu pendant mon alternance. Cette version est réécrite et fonctionne uniquement sur des **données fictives** : aucune donnée, aucun nom d'API ni aucune URL d'entreprise.
 
-<!-- Ajoute ici une capture d'écran du dashboard (lance l'app, clique sur « Charger les données d'exemple ») -->
+<!-- <img width="1889" height="564" alt="image" src="https://github.com/user-attachments/assets/13349867-9afc-47d6-a2a6-b386fc5e2efc" />
+ -->
 
 ## Le besoin
 
