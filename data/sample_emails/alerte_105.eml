@@ -1,0 +1,15 @@
+From: supervision@exemple.com
+To: equipe-run@exemple.com
+Subject: [ALERTE] 1 signalement(s) API
+Date: Mon, 09 Feb 2026 09:01:00 -0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+Bonjour,
+
+Signalement d'incident de API-REPORTING sur l'environnement de production.
+URL concernée https://api.exemple.com/v1/reporting
+
+Cordialement,
+Supervision

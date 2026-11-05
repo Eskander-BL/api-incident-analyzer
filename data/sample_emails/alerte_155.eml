@@ -1,0 +1,21 @@
+From: supervision@exemple.com
+To: equipe-run@exemple.com
+Subject: [ALERTE] 3 signalement(s) API
+Date: Wed, 08 Apr 2026 12:27:00 -0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+Bonjour,
+
+Signalement d'incident de API-PAIEMENTS sur l'environnement de production.
+URL concernée https://api.exemple.com/v1/paiements
+
+Signalement d'incident de API-CLIENTS sur l'environnement de production.
+URL concernée https://api.exemple.com/v1/clients
+
+Signalement d'incident de API-STOCKS sur l'environnement de production.
+URL concernée https://api.exemple.com/v1/stocks
+
+Cordialement,
+Supervision

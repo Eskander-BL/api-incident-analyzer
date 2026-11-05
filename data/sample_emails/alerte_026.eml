@@ -1,0 +1,18 @@
+From: supervision@exemple.com
+To: equipe-run@exemple.com
+Subject: [ALERTE] 2 signalement(s) API
+Date: Wed, 08 Apr 2026 11:35:00 -0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+Bonjour,
+
+Signalement d'incident de API-COMMANDES sur l'environnement de production.
+URL concernée https://api.exemple.com/v1/commandes
+
+Signalement d'incident de API-CATALOGUE sur l'environnement de production.
+URL concernée https://api.exemple.com/v1/catalogue
+
+Cordialement,
+Supervision
